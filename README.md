@@ -96,5 +96,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Your Name**  
+**MEDPRG**  
 [GitHub Profile](https://github.com/MEDPRG)
