@@ -75,7 +75,7 @@ pip install -r requirements.txt
 ## Notes
 
 - Ensure the `photos/` directory exists before training (it will be created automatically if not present).
-- The probability threshold for face recognition is set to **90%**.
+- The probability threshold for face recognition is set to **80%**.
 - Pretrained models for MTCNN and InceptionResnetV1 will be downloaded automatically if not available.
 
 ---
